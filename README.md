@@ -11,6 +11,7 @@
 ### 日志分析
 #### 工具
 [loglizer](https://github.com/logpai/loglizer)
+[logdeep](https://github.com/donglee-afar/logdeep)
 #### 论文
 Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. Experience Report: System Log Analysis for Anomaly Detection, IEEE International Symposium on Software Reliability Engineering (ISSRE), 2016. [[英文版本](http://jmzhu.logpai.com/pub/slhe_issre2016.pdf)] (ISSRE Most Influential Paper)[[中文版本](https://github.com/AmateurEvents/article/issues/2)] (ISSRE Most Influential Paper)]
 
