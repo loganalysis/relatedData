@@ -22,3 +22,8 @@ Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. Experience Report: System Log
 ### 日志论文集合
 
 [awesome-log-analysis](https://github.com/logpai/awesome-log-analysis)
+
+### 科研机构
+[LogPAI](https://github.com/logpai)
+
+[NetManAIOps](https://github.com/NetManAIOps)
