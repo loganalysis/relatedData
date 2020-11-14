@@ -27,3 +27,5 @@ Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. Experience Report: System Log
 [LogPAI](https://github.com/logpai)
 
 [NetManAIOps](https://github.com/NetManAIOps)
+
+[AIOps@NKU](http://nkcs.iops.ai/)
