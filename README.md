@@ -1,10 +1,9 @@
 ### 日志相关学习资料
 
-### 日志解析
-
-#### 日志数据集
+### 日志数据集
 [loghub](https://github.com/logpai/loghub)
 
+### 日志解析
 #### 工具
 [logparser](https://github.com/logpai/logparser)[[源码阅读](https://github.com/loganalysis/relatedData/issues/1)]
 #### 论文
