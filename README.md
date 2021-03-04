@@ -2,6 +2,9 @@
 
 ### 日志解析
 
+#### 日志数据集
+[loghub](https://github.com/logpai/loghub)
+
 #### 工具
 [logparser](https://github.com/logpai/logparser)[[源码阅读](https://github.com/loganalysis/relatedData/issues/1)]
 #### 论文
